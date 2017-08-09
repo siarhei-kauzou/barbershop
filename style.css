@@ -1,0 +1,9 @@
+html,
+body {
+  font: 'PT Sans Narrow', 'Arial', sans-serif;
+  color: #000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  background: #000000 url(img/index-background.jpg) no-repeat center top;
+}
